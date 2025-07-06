@@ -1,0 +1,5 @@
+Youtube Yorumları Dataset: https://www.kaggle.com/datasets/atifaliak/youtube-comments-dataset/data 
+Youtube Kodu: https://www.kaggle.com/code/atifaliak/sentiment-analysis-on-youtube-comments 
+Youtube Kodu: https://www.kaggle.com/code/drisrarahmad/youtube-comment-dataset-nlp-ipynb
+Youtube Kodu: https://www.kaggle.com/code/sonawanelalitsunil/youtube-comments-sentiment-trends-ml-74-90
+Youtube Kodu: https://www.kaggle.com/code/madhuraatmarambhagat/youtube-analysis
